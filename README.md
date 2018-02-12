@@ -8,3 +8,13 @@ To use the bot, go to link https://discordapp.com/oauth2/authorize?client_id=405
 
 
 Then select server and check the box that says, I'm not a robot!
+
+
+
+To use the bot, use the prefix before the command. Prefix is ^
+
+
+Commands are:   ^avatar,  ^userinfo,  ^mute,  ^unmute
+
+
+These are all the commands at this moment, more will be added in future updates!
