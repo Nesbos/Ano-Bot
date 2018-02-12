@@ -8,9 +8,6 @@ const bot = new Discord.Client({disableEveryone: true});
 bot.commands = new Discord.Collection();
 bot.mutes = require("./mutes.json");
 
-// THIS MUST BE THIS WAY
-client.login(process.env.BOT_TOKEN);
-
 fs.readdir("./cmds/", (err, files) => {
 	if(err) console.error(err);
 
