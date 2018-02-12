@@ -1,0 +1,11 @@
+{
+  "name": "ano-bot",
+  "version": "0.0.1",
+  "description": "announcement bot",
+  "main": "bot.js",
+  "author": "WatchersGrim",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
